@@ -1,0 +1,15 @@
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.csprojAssemblyReference.cache
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.AssemblyInfoInputs.cache
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.AssemblyInfo.cs
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.csproj.CoreCompileInputs.cache
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\facts.exe
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\facts.deps.json
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\facts.runtimeconfig.json
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\facts.runtimeconfig.dev.json
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\facts.dll
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\facts.pdb
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.dll
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.pdb
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.genruntimeconfig.cache
+C:\Users\zelda\source\repos\facts\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zelda\source\repos\facts\obj\Debug\netcoreapp3.1\facts.csproj.CopyComplete

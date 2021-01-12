@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNIVY8EPLqv1SiEOoQz+nTVmOtuDVuKgejAOcrHam3LRGU8/bm2Ct60QYMu0F/TcVnyTiDBmI7ZdhKQs6rynJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zelda\\source\\repos\\facts\\facts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zelda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
